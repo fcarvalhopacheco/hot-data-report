@@ -1,4 +1,0 @@
-# Steps to build this repository
-
-# Create a conda env
-$ conda create --prefix ./env python
